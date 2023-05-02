@@ -52,8 +52,7 @@ Load data from the Lokad dataset; this can be done in two ways:
 - Access [https://try.lokad.com](https://try.lokad.com) using a browser of your choice.
 - Click on the **Files** tab.
 - Click **Upload** and load the downloaded files of the [Lokad data set.](https://docs.lokad.com/gallery/dataset-one-echelon-2017/)
-  <!-- ![Lokad Datasets](/images/tn.png "Datasets") -->
-  <img src="tn.png" alt="Alt text" title="Optional title">
+  ![Lokad Datasets](/dataset.png "Datasets")
 
 **Use Your Lokad Account**
 
@@ -64,7 +63,7 @@ Load data from the Lokad dataset; this can be done in two ways:
 
 Your Lokad account should look like this:
 
-<!-- ![Lokad Dashboard](/images/dashboard.png "Dashboard") -->
+![Lokad Dashboard](/dashboard.png "Dashboard")
 
 For the purpose of this guide, we will be using the [Envision playground.](https://try.lokad.com/)
 
@@ -376,5 +375,5 @@ Classify products into X, Y, or Z categories based on their demand variability u
 
 The final table displays the ABC XYZ analysis for each SKU, with the ABC classification determined by the product's revenue percentiles and the XYZ classification determined by the coefficient of variation of the product's demand.
 
-<!-- ![Table Result](/images/abcxyz-analysis-table.png "Result")
-![Table Result 2](/images/abcxyz-analysis-table-2.png "Result-2") -->
+![Table Result](/abcxyz-analysis-table.png "Result")
+![Table Result 2](/abcxyz-analysis-table-2.png "Result-2")
